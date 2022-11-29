@@ -1,1 +1,1 @@
-learning more about git
+this code is about beign flexible with git
